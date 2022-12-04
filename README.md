@@ -1,6 +1,6 @@
 > the project still in working,
 
-# @newerland/contenful
+# @pizar/contenful
 
 **Table of Contents**
 
@@ -11,7 +11,7 @@ The test project birth with this test purpose: _create a node module and use it 
 
 ## Install
 ```shell
-npm install @newerland/contentful
+npm install @pizar/contentful
 ```
 
 ## Use
