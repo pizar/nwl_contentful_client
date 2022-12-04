@@ -22,7 +22,7 @@ Create (or add to) your `.env` file. Below the variables needed from the system:
 
 then...
 ```node
-import {ContentfulClient} from "@newerland/contentful";
+import {ContentfulClient} from "pizar_contentful";
 
 const client = new ContentfulClient();
 const entries = await client.query(graphql);

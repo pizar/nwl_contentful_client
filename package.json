@@ -1,6 +1,6 @@
 {
-  "name": "@newerland/contentful",
-  "version": "0.0.1",
+  "name": "pizar_contentful",
+  "version": "0.0.2",
   "description": "Contentful Client",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
