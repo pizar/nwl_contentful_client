@@ -1,6 +1,6 @@
 > the project still in working,
 
-# @pizar/contenful
+# pizar_contenful
 
 **Table of Contents**
 
