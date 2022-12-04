@@ -11,7 +11,7 @@ The test project birth with this test purpose: _create a node module and use it 
 
 ## Install
 ```shell
-npm install @pizar/contentful
+npm install pizar_contentful
 ```
 
 ## Use
