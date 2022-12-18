@@ -1,6 +1,6 @@
 {
-  "name": "pizar_contentful",
-  "version": "0.0.2",
+  "name": "nwl_contentful_client",
+  "version": "1.0.0",
   "description": "Contentful Client",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
